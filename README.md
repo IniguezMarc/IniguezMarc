@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Marc%20I%C3%B1iguez%20Barbero?theme=dark&font=Livvic)
 <!--
 **IniguezMarc/IniguezMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
