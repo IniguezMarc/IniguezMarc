@@ -1,6 +1,6 @@
 ### Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/miniguezbarbero?theme=dark&font=Livvic&ext=heatmap)
 <!--
+![LeetCode Stats](https://leetcard.jacoblin.cool/miniguezbarbero?theme=dark&font=Livvic&ext=heatmap)
 **IniguezMarc/IniguezMarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
