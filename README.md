@@ -32,8 +32,8 @@ I combine a strong theoretical background in **Algorithmics & Data Analysis** wi
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iniguezmarc&show_icons=true&theme=radical&hide_border=true" alt="iniguezmarc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniguezmarc&layout=compact&theme=radical&hide_border=true" alt="iniguezmarc" />
+<img src="https://github-readme-stats.vercel.app/api?username=IniguezMarc&show_icons=true&theme=radical&hide_border=true" alt="iniguezmarc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IniguezMarc&layout=compact&theme=radical&hide_border=true" alt="iniguezmarc" />
 </p>
 
 <p align="right">
