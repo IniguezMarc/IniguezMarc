@@ -29,11 +29,15 @@ I combine a strong theoretical background in **Algorithmics & Data Analysis** wi
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect with me
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=IniguezMarc&show_icons=true&theme=radical&hide_border=true" alt="iniguezmarc" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IniguezMarc&layout=compact&theme=radical&hide_border=true" alt="iniguezmarc" />
+  <a href="https://linkedin.com/in/iniguezmarc" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iniguezmarc" />
+  </a>
+  <a href="mailto:miniguezbarbero@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
 </p>
 
 <p align="right">
