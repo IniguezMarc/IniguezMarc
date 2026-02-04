@@ -1,3 +1,5 @@
+[View Portfolio](https://iniguezmarc.github.io/portfolio/)
+
 ### Hi there! I'm Marc 👋
 
 I'm a **Computer Engineering Student** (Final Year @ UOC) & **Full Stack Developer** based in **Barcelona**.
